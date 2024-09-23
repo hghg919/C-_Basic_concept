@@ -1,0 +1,14 @@
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\StudentList_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\StudentList_While.AssemblyInfoInputs.cache
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\StudentList_While.AssemblyInfo.cs
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\StudentList_While.csproj.CoreCompileInputs.cache
+C:\Projects\intro\08\StudentList_While\bin\Debug\net8.0\StudentList_While.exe
+C:\Projects\intro\08\StudentList_While\bin\Debug\net8.0\StudentList_While.deps.json
+C:\Projects\intro\08\StudentList_While\bin\Debug\net8.0\StudentList_While.runtimeconfig.json
+C:\Projects\intro\08\StudentList_While\bin\Debug\net8.0\StudentList_While.dll
+C:\Projects\intro\08\StudentList_While\bin\Debug\net8.0\StudentList_While.pdb
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\StudentList_While.dll
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\refint\StudentList_While.dll
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\StudentList_While.pdb
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\StudentList_While.genruntimeconfig.cache
+C:\Projects\intro\08\StudentList_While\obj\Debug\net8.0\ref\StudentList_While.dll

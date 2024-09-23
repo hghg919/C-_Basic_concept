@@ -1,0 +1,14 @@
+C:\Projects\intro\09\Gugudan\bin\Debug\net8.0\Gugudan.exe
+C:\Projects\intro\09\Gugudan\bin\Debug\net8.0\Gugudan.deps.json
+C:\Projects\intro\09\Gugudan\bin\Debug\net8.0\Gugudan.runtimeconfig.json
+C:\Projects\intro\09\Gugudan\bin\Debug\net8.0\Gugudan.dll
+C:\Projects\intro\09\Gugudan\bin\Debug\net8.0\Gugudan.pdb
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\Gugudan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\Gugudan.AssemblyInfoInputs.cache
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\Gugudan.AssemblyInfo.cs
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\Gugudan.csproj.CoreCompileInputs.cache
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\Gugudan.dll
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\refint\Gugudan.dll
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\Gugudan.pdb
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\Gugudan.genruntimeconfig.cache
+C:\Projects\intro\09\Gugudan\obj\Debug\net8.0\ref\Gugudan.dll

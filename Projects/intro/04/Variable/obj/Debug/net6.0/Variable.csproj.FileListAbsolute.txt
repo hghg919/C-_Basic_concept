@@ -1,0 +1,14 @@
+C:\Projects\intro\04\Variable\bin\Debug\net6.0\Variable.exe
+C:\Projects\intro\04\Variable\bin\Debug\net6.0\Variable.deps.json
+C:\Projects\intro\04\Variable\bin\Debug\net6.0\Variable.runtimeconfig.json
+C:\Projects\intro\04\Variable\bin\Debug\net6.0\Variable.dll
+C:\Projects\intro\04\Variable\bin\Debug\net6.0\Variable.pdb
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\Variable.AssemblyInfoInputs.cache
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\Variable.AssemblyInfo.cs
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\Variable.csproj.CoreCompileInputs.cache
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\Variable.dll
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\refint\Variable.dll
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\Variable.pdb
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\Variable.genruntimeconfig.cache
+C:\Projects\intro\04\Variable\obj\Debug\net6.0\ref\Variable.dll

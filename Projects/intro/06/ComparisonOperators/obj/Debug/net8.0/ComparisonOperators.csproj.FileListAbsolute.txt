@@ -1,0 +1,14 @@
+C:\Projects\intro\06\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.exe
+C:\Projects\intro\06\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.deps.json
+C:\Projects\intro\06\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.runtimeconfig.json
+C:\Projects\intro\06\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.dll
+C:\Projects\intro\06\ComparisonOperators\bin\Debug\net8.0\ComparisonOperators.pdb
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.AssemblyInfoInputs.cache
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.AssemblyInfo.cs
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.dll
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\refint\ComparisonOperators.dll
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.pdb
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ComparisonOperators.genruntimeconfig.cache
+C:\Projects\intro\06\ComparisonOperators\obj\Debug\net8.0\ref\ComparisonOperators.dll

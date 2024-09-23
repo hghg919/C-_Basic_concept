@@ -1,0 +1,14 @@
+C:\Projects\intro\09\DoorLock_6Num_For\bin\Debug\net8.0\DoorLock_6Num_For.exe
+C:\Projects\intro\09\DoorLock_6Num_For\bin\Debug\net8.0\DoorLock_6Num_For.deps.json
+C:\Projects\intro\09\DoorLock_6Num_For\bin\Debug\net8.0\DoorLock_6Num_For.runtimeconfig.json
+C:\Projects\intro\09\DoorLock_6Num_For\bin\Debug\net8.0\DoorLock_6Num_For.dll
+C:\Projects\intro\09\DoorLock_6Num_For\bin\Debug\net8.0\DoorLock_6Num_For.pdb
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\DoorLock_6Num_For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\DoorLock_6Num_For.AssemblyInfoInputs.cache
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\DoorLock_6Num_For.AssemblyInfo.cs
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\DoorLock_6Num_For.csproj.CoreCompileInputs.cache
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\DoorLock_6Num_For.dll
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\refint\DoorLock_6Num_For.dll
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\DoorLock_6Num_For.pdb
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\DoorLock_6Num_For.genruntimeconfig.cache
+C:\Projects\intro\09\DoorLock_6Num_For\obj\Debug\net8.0\ref\DoorLock_6Num_For.dll

@@ -1,0 +1,14 @@
+C:\Projects\intro\01\MyFisftProgram\bin\Debug\net6.0\MyFisftProgram.exe
+C:\Projects\intro\01\MyFisftProgram\bin\Debug\net6.0\MyFisftProgram.deps.json
+C:\Projects\intro\01\MyFisftProgram\bin\Debug\net6.0\MyFisftProgram.runtimeconfig.json
+C:\Projects\intro\01\MyFisftProgram\bin\Debug\net6.0\MyFisftProgram.dll
+C:\Projects\intro\01\MyFisftProgram\bin\Debug\net6.0\MyFisftProgram.pdb
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\MyFisftProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\MyFisftProgram.AssemblyInfoInputs.cache
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\MyFisftProgram.AssemblyInfo.cs
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\MyFisftProgram.csproj.CoreCompileInputs.cache
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\MyFisftProgram.dll
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\refint\MyFisftProgram.dll
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\MyFisftProgram.pdb
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\MyFisftProgram.genruntimeconfig.cache
+C:\Projects\intro\01\MyFisftProgram\obj\Debug\net6.0\ref\MyFisftProgram.dll

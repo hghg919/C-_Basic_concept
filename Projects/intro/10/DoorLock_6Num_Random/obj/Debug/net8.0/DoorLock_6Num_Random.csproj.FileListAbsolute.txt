@@ -1,0 +1,14 @@
+C:\Projects\intro\10\DoorLock_6Num_Random\bin\Debug\net8.0\DoorLock_6Num_Random.exe
+C:\Projects\intro\10\DoorLock_6Num_Random\bin\Debug\net8.0\DoorLock_6Num_Random.deps.json
+C:\Projects\intro\10\DoorLock_6Num_Random\bin\Debug\net8.0\DoorLock_6Num_Random.runtimeconfig.json
+C:\Projects\intro\10\DoorLock_6Num_Random\bin\Debug\net8.0\DoorLock_6Num_Random.dll
+C:\Projects\intro\10\DoorLock_6Num_Random\bin\Debug\net8.0\DoorLock_6Num_Random.pdb
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\DoorLock_6Num_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\DoorLock_6Num_Random.AssemblyInfoInputs.cache
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\DoorLock_6Num_Random.AssemblyInfo.cs
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\DoorLock_6Num_Random.csproj.CoreCompileInputs.cache
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\DoorLock_6Num_Random.dll
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\refint\DoorLock_6Num_Random.dll
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\DoorLock_6Num_Random.pdb
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\DoorLock_6Num_Random.genruntimeconfig.cache
+C:\Projects\intro\10\DoorLock_6Num_Random\obj\Debug\net8.0\ref\DoorLock_6Num_Random.dll

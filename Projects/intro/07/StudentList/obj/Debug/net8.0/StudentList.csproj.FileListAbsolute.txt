@@ -1,0 +1,14 @@
+C:\Projects\intro\07\StudentList\bin\Debug\net8.0\StudentList.exe
+C:\Projects\intro\07\StudentList\bin\Debug\net8.0\StudentList.deps.json
+C:\Projects\intro\07\StudentList\bin\Debug\net8.0\StudentList.runtimeconfig.json
+C:\Projects\intro\07\StudentList\bin\Debug\net8.0\StudentList.dll
+C:\Projects\intro\07\StudentList\bin\Debug\net8.0\StudentList.pdb
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\StudentList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\StudentList.AssemblyInfoInputs.cache
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\StudentList.AssemblyInfo.cs
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\StudentList.csproj.CoreCompileInputs.cache
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\StudentList.dll
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\refint\StudentList.dll
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\StudentList.pdb
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\StudentList.genruntimeconfig.cache
+C:\Projects\intro\07\StudentList\obj\Debug\net8.0\ref\StudentList.dll

@@ -1,0 +1,14 @@
+C:\Projects\intro\03\Constant\bin\Debug\net6.0\Constant.exe
+C:\Projects\intro\03\Constant\bin\Debug\net6.0\Constant.deps.json
+C:\Projects\intro\03\Constant\bin\Debug\net6.0\Constant.runtimeconfig.json
+C:\Projects\intro\03\Constant\bin\Debug\net6.0\Constant.dll
+C:\Projects\intro\03\Constant\bin\Debug\net6.0\Constant.pdb
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\Constant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\Constant.AssemblyInfoInputs.cache
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\Constant.AssemblyInfo.cs
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\Constant.csproj.CoreCompileInputs.cache
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\Constant.dll
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\refint\Constant.dll
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\Constant.pdb
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\Constant.genruntimeconfig.cache
+C:\Projects\intro\03\Constant\obj\Debug\net6.0\ref\Constant.dll

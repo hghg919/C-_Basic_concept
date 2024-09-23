@@ -1,0 +1,14 @@
+C:\Projects\intro\04\Operators\bin\Debug\net6.0\Operators.exe
+C:\Projects\intro\04\Operators\bin\Debug\net6.0\Operators.deps.json
+C:\Projects\intro\04\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+C:\Projects\intro\04\Operators\bin\Debug\net6.0\Operators.dll
+C:\Projects\intro\04\Operators\bin\Debug\net6.0\Operators.pdb
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\Operators.dll
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\refint\Operators.dll
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\Operators.pdb
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+C:\Projects\intro\04\Operators\obj\Debug\net6.0\ref\Operators.dll

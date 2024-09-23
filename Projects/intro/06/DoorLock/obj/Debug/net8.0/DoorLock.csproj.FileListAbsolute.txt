@@ -1,0 +1,14 @@
+C:\Projects\intro\06\DoorLock\bin\Debug\net8.0\DoorLock.exe
+C:\Projects\intro\06\DoorLock\bin\Debug\net8.0\DoorLock.deps.json
+C:\Projects\intro\06\DoorLock\bin\Debug\net8.0\DoorLock.runtimeconfig.json
+C:\Projects\intro\06\DoorLock\bin\Debug\net8.0\DoorLock.dll
+C:\Projects\intro\06\DoorLock\bin\Debug\net8.0\DoorLock.pdb
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\DoorLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\DoorLock.AssemblyInfoInputs.cache
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\DoorLock.AssemblyInfo.cs
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\DoorLock.csproj.CoreCompileInputs.cache
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\DoorLock.dll
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\refint\DoorLock.dll
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\DoorLock.pdb
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\DoorLock.genruntimeconfig.cache
+C:\Projects\intro\06\DoorLock\obj\Debug\net8.0\ref\DoorLock.dll

@@ -1,0 +1,14 @@
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ConsoleWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ConsoleWrite.AssemblyInfoInputs.cache
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ConsoleWrite.AssemblyInfo.cs
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\Projects\intro\02\ConsoleWrite\bin\Debug\net6.0\ConsoleWrite.exe
+C:\Projects\intro\02\ConsoleWrite\bin\Debug\net6.0\ConsoleWrite.deps.json
+C:\Projects\intro\02\ConsoleWrite\bin\Debug\net6.0\ConsoleWrite.runtimeconfig.json
+C:\Projects\intro\02\ConsoleWrite\bin\Debug\net6.0\ConsoleWrite.dll
+C:\Projects\intro\02\ConsoleWrite\bin\Debug\net6.0\ConsoleWrite.pdb
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ConsoleWrite.dll
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\refint\ConsoleWrite.dll
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ConsoleWrite.pdb
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ConsoleWrite.genruntimeconfig.cache
+C:\Projects\intro\02\ConsoleWrite\obj\Debug\net6.0\ref\ConsoleWrite.dll

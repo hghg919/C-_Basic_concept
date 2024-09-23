@@ -1,0 +1,14 @@
+C:\Projects\intro\10\LottoNumberGenerator\bin\Debug\net8.0\LottoNumberGenerator.exe
+C:\Projects\intro\10\LottoNumberGenerator\bin\Debug\net8.0\LottoNumberGenerator.deps.json
+C:\Projects\intro\10\LottoNumberGenerator\bin\Debug\net8.0\LottoNumberGenerator.runtimeconfig.json
+C:\Projects\intro\10\LottoNumberGenerator\bin\Debug\net8.0\LottoNumberGenerator.dll
+C:\Projects\intro\10\LottoNumberGenerator\bin\Debug\net8.0\LottoNumberGenerator.pdb
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\LottoNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\LottoNumberGenerator.AssemblyInfoInputs.cache
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\LottoNumberGenerator.AssemblyInfo.cs
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\LottoNumberGenerator.csproj.CoreCompileInputs.cache
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\LottoNumberGenerator.dll
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\refint\LottoNumberGenerator.dll
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\LottoNumberGenerator.pdb
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\LottoNumberGenerator.genruntimeconfig.cache
+C:\Projects\intro\10\LottoNumberGenerator\obj\Debug\net8.0\ref\LottoNumberGenerator.dll
